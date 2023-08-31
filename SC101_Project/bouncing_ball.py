@@ -1,6 +1,6 @@
 """
 File: bouncing_ball.py
-Name: Sophia
+Name: Ray
 -------------------------
 This program simulates a bouncing ball at (START_X, START_Y)
 that has VX as x velocity, vy as y velocity, and 1 as GRAVITY.
