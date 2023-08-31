@@ -1,6 +1,6 @@
 """
 File: breakout.py
-Name: Example answer
+Name: Ray
 -----------------------------
 stanCode Breakout Project
 Adapted from Eric Roberts's Breakout by
