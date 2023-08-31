@@ -1,6 +1,6 @@
 """
 File: babynames.py
-Name: Sophia
+Name: Ray
 --------------------------
 SC101 Baby Names Project
 Adapted from Nick Parlante's Baby Names assignment by
